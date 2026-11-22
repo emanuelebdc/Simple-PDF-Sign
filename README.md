@@ -31,6 +31,15 @@ I built **Simple PDF Sign** in Milan out of pure necessity: **an instantaneous, 
 
 ---
 
+## ✦ Interfaccia Visiva & Screenshot Reale
+
+<p align="center">
+  <img src="assets/screenshot.jpg" alt="Simple PDF Sign — Interfaccia di Timbratura e Firma Digitale" width="100%">
+</p>
+<p align="center"><em>Workspace interattivo: caricamento PDF drag-and-drop, posizionamento millimetrico della firma trasparente e apposizione del timbro aziendale 100% in locale.</em></p>
+
+---
+
 ## ✦ Video Walkthrough in Action
 
 Watch the complete 15-second signing workflow demonstrated live:
@@ -75,8 +84,9 @@ Simple-PDF-Sign/
 ├── index.html               # Interfaccia grafica, viewport PDF e controlli di timbratura
 ├── styles.css               # Design system Swiss, contrasto elevato e drawer laterale
 ├── app.js                   # Motore di rendering PDF, gestione eventi touch/mouse e export
-├── assets/                  # Grafica editoriale e social cover
-│   └── social-preview.jpg   # Banner 16:9 hero ufficiale
+├── assets/                  # Grafica editoriale, social cover e screenshot
+│   ├── social-preview.jpg   # Banner 16:9 hero ufficiale
+│   └── screenshot.jpg       # Screenshot reale dell'interfaccia di timbratura
 ├── simple-pdf-sign-v1.zip   # Archivio standalone pronto all'uso offline
 ├── LICENSE                  # Licenza open-source MIT
 └── README.md                # Documentazione ufficiale e manifesto
